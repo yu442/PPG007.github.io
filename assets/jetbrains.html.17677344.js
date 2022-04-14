@@ -1,0 +1,1 @@
+const t={key:"v-08f67cc4",path:"/ubuntu-20.04-init/docs/jetbrains.html",title:"Jetbrains",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645882012e3,contributors:[{name:"ppg007",email:"1658272229@qq.com",commits:1}]},filePathRelative:"ubuntu-20.04-init/docs/jetbrains.md"};export{t as data};

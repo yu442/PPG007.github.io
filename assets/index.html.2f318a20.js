@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as o,b as a}from"./app.269ed0ef.js";const c={},r={id:"istio",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#istio","aria-hidden":"true"},"#",-1),i=a(" Istio"),n=[_,i];function d(h,f){return t(),s("h1",r,n)}var p=e(c,[["render",d]]);export{p as default};

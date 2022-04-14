@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a,b as s}from"./app.269ed0ef.js";const c={},n={id:"mongodb",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#mongodb","aria-hidden":"true"},"#",-1),d=s(" MongoDB"),_=[r,d];function i(h,f){return o(),t("h1",n,_)}var l=e(c,[["render",i]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,a as t,b as a}from"./app.269ed0ef.js";const c={},d={id:"vscode",tabindex:"-1"},r=t("a",{class:"header-anchor",href:"#vscode","aria-hidden":"true"},"#",-1),_=a(" VsCode"),n=[r,_];function i(h,f){return s(),o("h1",d,n)}var p=e(c,[["render",i]]);export{p as default};

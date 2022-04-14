@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a,b as s}from"./app.269ed0ef.js";const c={},r={id:"dubbo",tabindex:"-1"},d=a("a",{class:"header-anchor",href:"#dubbo","aria-hidden":"true"},"#",-1),_=s(" Dubbo"),n=[d,_];function i(h,b){return o(),t("h1",r,n)}var u=e(c,[["render",i]]);export{u as default};

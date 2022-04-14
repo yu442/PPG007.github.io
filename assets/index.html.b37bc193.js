@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s,b as a}from"./app.269ed0ef.js";const c={},n={id:"coding-style",tabindex:"-1"},d=s("a",{class:"header-anchor",href:"#coding-style","aria-hidden":"true"},"#",-1),r=a(" Coding Style"),_=[d,r];function i(h,l){return t(),o("h1",n,_)}var p=e(c,[["render",i]]);export{p as default};
